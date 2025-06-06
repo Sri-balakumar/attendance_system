@@ -183,4 +183,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## 📬 Contact
 
-For issues, bugs, or suggestions, please open an issue on GitHub or contact the maintainer.
+For issues, bugs, or suggestions, please open an issue on GitHub.
