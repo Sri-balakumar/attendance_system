@@ -178,14 +178,17 @@ $database = "attendance_db";
 
 ## 👨‍💻 Author
 
-Sri Balakumar  
-GitHub: https://github.com/Sri-balakumar
+**Sri Balakumar**
 
----
+* GitHub: [@Sri-balakumar](https://github.com/Sri-balakumar)
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the [MIT License](LICENSE).
 
-⭐ Star this repository if you found it useful! 
+---
+
+⭐️ Star this repo if you found it useful!
+
+````
 
