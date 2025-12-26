@@ -2,7 +2,7 @@
 $host = "localhost";
 $username = "root";
 $password = "";
-$database = "attendance_db;";
+$database = "attendance_db";  // Removed the semicolon here
 
 $conn = new mysqli($host, $username, $password, $database);
 

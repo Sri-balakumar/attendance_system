@@ -11,7 +11,7 @@ if (isset($_GET['download']) && $_GET['download'] === 'excel') {
     $host = "localhost";
     $username = "root";
     $password = "";
-    $database = "attendance_db;";
+    $database = "attendance_db";
     $conn = new mysqli($host, $username, $password, $database);
     
     if ($conn->connect_error) {
@@ -139,7 +139,7 @@ if (isset($_GET['download']) && $_GET['download'] === 'excel') {
 $host = "localhost";
 $username = "root";
 $password = "";
-$database = "attendance_db;";
+$database = "attendance_db";
 
 $conn = new mysqli($host, $username, $password, $database);
 
